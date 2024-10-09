@@ -88,13 +88,13 @@ Please refer to the details in Section 4 of our paper.
 If you make use of AmbigNLG_SNI, please cite the following paper:
 
 ```bibtex
-@misc{niwa2024ambignlgaddressingtaskambiguity,
+@inproceedings{niwa2024ambignlg,
       title={AmbigNLG: Addressing Task Ambiguity in Instruction for NLG}, 
       author={Ayana Niwa and Hayate Iso},
+      month={nov},
       year={2024},
-      eprint={2402.17717},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
+      booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+      publisher={Association for Computational Linguistics},
       url={https://arxiv.org/abs/2402.17717}, 
 }
 ```
